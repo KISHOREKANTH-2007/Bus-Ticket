@@ -1,0 +1,131 @@
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 1
+Enter Bus Number: 500
+Enter Route: Chennai - namakkal
+Enter Total Seats: 40
+Bus added successfully!
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 2
+
+BusNo  Route                 Total  Booked  Available
+500    Chennai - namakkal   40     0       40       
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 4
+Enter Bus Number: 500
+Enter seats to book: 5
+Booking successful! Tickets booked: 5. Seats left: 35
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 6
+
+BusNo  Route                 Total  Booked  Available
+500    Chennai - namakkal   40     5       35       
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 5
+Enter Bus Number: 500
+Enter seats to cancel: 2
+Cancellation successful! Seats left: 37
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 3
+Enter Bus Number or Route to search: 301
+
+Bus Found:
+Bus No: 500
+Route: Chennai - namakkal
+Total Seats: 40
+Booked Seats: 3
+Available Seats: 37
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 6
+
+BusNo  Route                 Total  Booked  Available
+500    Chennai - namakkal   40     3       37       
+
+-----------------------------------------
+BUS TICKET RESERVATION SYSTEM
+-----------------------------------------
+1. Add Bus
+2. Display All Buses
+3. Search Bus
+4. Book Ticket
+5. Cancel Booking
+6. View Bookings
+0. Exit
+-----------------------------------------
+Enter your choice: 0
+Exiting program...
